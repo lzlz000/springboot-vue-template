@@ -12,5 +12,4 @@
     changeOrigin: true
 }
 ```
-- window打包 package.bat，linux打包 package.sh,
-打包后springboot的jar包中会包含前端资源
+- windows打包package.bat，linux打包 package.sh,打包后springboot的jar包中会包含前端资源
