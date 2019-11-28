@@ -16,7 +16,7 @@ export default {
   },
   methods:{
     hello(){
-        this.$axios.get("hello").then((res)=>{
+        this.$axios.post("hello").then((res)=>{
             console.log(res)
         })
     }

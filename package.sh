@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 cd ./src/main/webapp
 echo "build frontend"
 npm run build
